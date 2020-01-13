@@ -21,7 +21,7 @@ int main()
 
    rev[start] = '\0';
 
-   printf("%s\n", rev);
+   printf("Reversed string is %s\n", rev);
 
    return 0;
 }
